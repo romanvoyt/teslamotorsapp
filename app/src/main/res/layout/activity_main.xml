@@ -133,7 +133,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="(888) 51-TESLA"
-                    android:textSize="18dsp"
+                    android:textSize="18sp"
                     android:textColor="#000"
                     android:layout_marginTop="10dp"
                     android:layout_marginLeft="10dp"
